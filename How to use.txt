@@ -1,0 +1,46 @@
+📺 Booting Up
+When powered on, EDUINOOS displays a splash screen with an ASCII logo and loading bar.
+
+Then it shows the main menu.
+
+📜 Main Menu Navigation
+UP / DOWN buttons: Scroll through the menu items.
+
+SELECT button: Open the selected app.
+
+LEFT / RIGHT buttons: Used within some apps for options or input.
+
+🧮 Calculator
+Set numbers and operator using UP/DOWN.
+
+Switch between input fields (num1, op, num2, result) with LEFT/RIGHT.
+
+Press SELECT on result screen to exit.
+
+🔧 Settings
+Toggle backlight ON/OFF.
+
+Set game speed: Easy / Medium / Hard.
+
+Navigate with UP/DOWN, change values with LEFT/RIGHT.
+
+SELECT on “Save & Exit” to store settings to EEPROM.
+
+🎮 Game
+Move player using LEFT/RIGHT.
+
+Avoid the falling block.
+
+Game ends if block hits the player. Score is displayed.
+
+🔍 Search Simulator
+Use LEFT/RIGHT to move between letters.(need to make funksional is not done yet)
+
+UP/DOWN to change character (A–Z).
+
+❓ Help
+Displays basic usage instructions.
+
+Use LEFT/RIGHT to flip pages.
+
+SELECT to exit help.
