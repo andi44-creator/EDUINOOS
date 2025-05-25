@@ -378,7 +378,7 @@ void setup() {
   lcd.createChar(4, searchIcon);
   lcd.createChar(5, terminalIcon); // Icon for terminal
 
-  // Boot logo
+  
   lcd.clear();
   lcd.setCursor(1, 0);
   lcd.print("EDUINOOS OS");
@@ -386,7 +386,7 @@ void setup() {
   lcd.print("Starting...");
   delay(1500);
 
-  // Loading bar
+
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Booting OS...");
